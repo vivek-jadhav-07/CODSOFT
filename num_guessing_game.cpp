@@ -8,7 +8,6 @@ int main() {
 
     int guessedNumber;
     int attempts = 0;
-
     std::cout << "Welcome to the Number Guessing Game!" << std::endl;
 
     do {
